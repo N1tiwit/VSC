@@ -1,0 +1,22 @@
+body {
+    background-color: aquamarine (144, 255, 255);
+}
+
+.head {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 48px;
+    font-style: normal;
+}
+
+
+
+.Size {
+    margin: 24px;
+}
+
+#prg {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(255, 251, 6);
+    padding: 18px;
+    border: 10px rgb(87, 230, 255) double;
+}
